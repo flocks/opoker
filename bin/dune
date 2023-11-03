@@ -1,0 +1,6 @@
+(executable
+ (public_name opoker)
+ (name main)
+ (preprocess (pps ppx_deriving.show ppx_deriving.ord ppx_deriving.eq))
+ (libraries opoker))
+

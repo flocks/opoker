@@ -1,0 +1,10 @@
+* opoker
+
+Another little experimentation with Ocaml.
+
+It evaluates NHLE poker hands values.
+
+#+BEGIN_SRC bash
+ $ dune build
+ $ dune exec AhKdKc8s8j AcTcJcQcKc
+#+END_SRC

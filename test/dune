@@ -1,0 +1,3 @@
+(test
+ (name opoker)
+ (libraries opoker alcotest))
